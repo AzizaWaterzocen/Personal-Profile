@@ -1,0 +1,62 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
+    background-color: hotpink;
+   
+}
+
+.Images{
+    width: 10%;
+    height: auto;
+    caption-side: bottom;
+    padding: 10%;
+}
+
+.id{
+    color: darkgreen;
+    background-color: aqua;
+}
+
+.h1{
+    color: blueviolet;
+    background-color: cornsilk;
+}
+.caption{
+    color: blanchedalmond;
+    background-color: blueviolet;
+}
+nav{
+    background-color: cyan;
+}
+
+nav ul li{
+
+    list-style-type: none;
+    display: inline-block;
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    padding: 15px;
+    background-color: darkkhaki;
+    color: brown;
+}
+
+nav ul li a:hover{
+    background-color: red;
+    color: darkblue;
+}
+.a{
+    color: blueviolet;
+    background-color: aqua;
+}
+
+.a :hover{
+    background-color: brown;
+    color: aqua;
+}
+
+.ul{
+    text-decoration: none;
+}
